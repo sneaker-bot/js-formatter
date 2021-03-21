@@ -4,9 +4,9 @@ It will format the code so it is easier to understand.
 
 options : 
 
-  read_file : if the code is in a file set to true
+  read_file : if the code is in a file set to true otherwise set it to false
   
-  write_file : if you want to write the beautify code out to a file set it to true
+  write_file : if you want to write the beautify code out to a file set it to true otherwise set it to false if you dont want to write it out to a file
   
   path : this is the path to the code you want to beautify
   
