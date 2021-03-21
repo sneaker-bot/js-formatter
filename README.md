@@ -11,3 +11,5 @@ options :
   path : this is the path to the code you want to beautify
   
   source : you can put your source here instead of putting it into a file. if you dont want to put your source here, set it to false.
+  
+example is in main.js
