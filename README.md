@@ -1,6 +1,6 @@
 # js-formatter
 
-It will format the code so it is easier to understand. 
+It will format the code looks more organized.
 
 options : 
 
